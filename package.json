@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Decryptorr/Roobet-Crash-Predictor.git"
+    "url": "https://github.com/Decryptor-x/Roobet-Crash-Predictor.git"
   },
   "keywords": [
     "roobet crash predictor",
@@ -29,9 +29,9 @@
   ],
   "license": "MIT",
   "author": "Decryptor",
-  "homepage": "https://github.com/Decryptorr/Roobet-Crash-Predictor",
+  "homepage": "https://github.com/Decryptor-x/Roobet-Crash-Predictor",
   "bugs": {
-    "url": "https://github.com/Decryptorr/Roobet-Crash-Predictor/issues"
+    "url": "https://github.com/Decryptor-x/Roobet-Crash-Predictor/issues"
   },
   "nyc": {
     "exclude": [
